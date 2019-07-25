@@ -8,8 +8,8 @@
 ***/
 package iloveyouboss;
 
+import static org.hamcrest.CoreMatchers.equalTo;
 import static org.junit.Assert.*;
-import static org.hamcrest.CoreMatchers.*; 
 import org.junit.*;
 
 public class ScoreCollectionTest {
